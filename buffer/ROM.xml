@@ -1,0 +1,46 @@
+
+<advancedsettings>
+    <video>
+        <allowmpeg4vaapi>true</allowmpeg4vaapi>
+        <autoscalemaxfps>30</autoscalemaxfps>
+        <checkdxvacompatibility>true</checkdxvacompatibility>
+        <fpsdetect>1</fpsdetect>
+<fullscreenonmoviestart>true</fullscreenonmoviestart>
+<enablehighqualityhwscalers>true</enablehighqualityhwscalers>
+        <percentseekbackward>-2</percentseekbackward>
+        <percentseekbackwardbig>-4</percentseekbackwardbig>
+        <percentseekforward>2</percentseekforward>
+        <percentseekforwardbig>4</percentseekforwardbig>
+        <timeseekbackward>-600</timeseekbackward>
+        <timeseekbackwardbig>-1200</timeseekbackwardbig>
+        <timeseekforward>600</timeseekforward>
+        <timeseekforwardbig>1200</timeseekforwardbig>
+<dxvaallowhqscaling>false</dxvaallowhqscaling>
+    </video>
+<gui>
+ <algorithmdirtyregions>3</algorithmdirtyregions>
+ <nofliptimeout>0</nofliptimeout>
+      </gui>
+    <network>
+ <alwaysforcebuffer>true</alwaysforcebuffer>
+ <autodetectpingtime>25</autodetectpingtime>
+        <curlclienttimeout>60</curlclienttimeout>
+        <curllowspeedtime>90</curllowspeedtime>
+ <disableipv6>true</disableipv6>
+ <curlretries>3</curlretries>
+    </network>
+ <cache>
+        <buffermode>0</buffermode>
+        <curlclienttimeout>60</curlclienttimeout>
+        <curllowspeedtime>60</curllowspeedtime>
+<freememorycachepercent>5</freememorycachepercent>
+        <memorysize>0</memorysize>
+        <readfactor>30</readfactor>
+    </cache>
+    <airplayport>20</airplayport>
+    <airtunesport>2</airtunesport>
+    <enableairtunesdebuglog>true</enableairtunesdebuglog>
+<fanartres>2160</fanartres>
+<imageres>1080</imageres>
+</advancedsettings>
+
