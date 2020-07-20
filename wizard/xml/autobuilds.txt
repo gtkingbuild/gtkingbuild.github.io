@@ -8,25 +8,25 @@ url="https://bit.ly/32mFUYA"
 gui=""
 kodi="18"
 theme="http://"
-icon="https://gtkingbuild.github.io/wizard/imagenes/gtkicon.png"
-fanart="https://gtkingbuild.github.io/wizard/imagenes/homegtking.jpg"
+icon="https://stva.zriel.net/wizard/imagenes/homespt.png"
+fanart="https://stva.zriel.net/wizard/imagenes/anethome.png"
 preview=""
 adult="No"
 info="http://"
-description="Build GTKing Prime lleno de peliculas, series, y mas"
+description="Base Aura con peliculas, series, television y deportes"
 
 name="PARCHE Para GTKING PRIME"
 version="1.1"
-url="https://bit.ly/3937mf9"
+url="http://bit.ly/2TtA6q3"
 gui=""
 kodi="16"
 theme="http://"
-icon="https://gtkingbuild.github.io/wizard/imagenes/iconpargtk.png"
-fanart="https://gtkingbuild.github.io/wizard/imagenes/iconparc.jpg"
+icon="https://stva.zriel.net/wizard/imagenes/homespt.png"
+fanart="https://stva.zriel.net/wizard/imagenes/anethome.png"
 preview=""
 adult="No"
 info="http://"
-description="Parche Para GTKing Prime. Solo conlleva las modificaciones."
+description="Parche Cambios Aura. No contiene la Base completa, solo los cambios."
 
 name="PARCHE Quasar"
 version=""
@@ -39,5 +39,10 @@ fanart="https://stva.zriel.net/wizard/imagenes/fanart.jpg"
 preview=""
 adult="No"
 info="http://"
-description="Gracias a todos por confiar en nosotros.
-
+description="PARCHE CON EL ADDON QUASAR ACTIVADO Y CONFIGURADO[CR]
+[COLOR red]ESTE PARCHE NO CONTIENE LA VERSION COMPLETA DE LA BUILD. SOLO CONTIENE LOS ARCHIVOS DEL ADDON QUASAR Y SU CONFIGURACION.[/COLOR][CR]
+[COLOR white]SI QUIERES SEGUIR RECIBIENDO LAS [COLOR yellow]NOTIFICACIONES DE ACTUALIZACION[/COLOR] DE LA BUILD GTKING, AL INICIAR KODI[CR]
+DESPUES DE INSTALAR EL PARCHE QUASAR, INSTALA [/COLOR][COLOR green]EL PARCHE GTKING ACTUALIZABLE O EL EXTENDIDO[/COLOR] [COLOR white][CR]
+Es posible que aparezcan problemas con Torrenter (el addon a traves del cual se ven los videos torrent). Pasa en Android en versiones kodi 17.4 o superior.[CR]
+Si fuera tu caso, este Parche contiene el addon Quasar para cualquier dispositivo, ya configurado.
+Solo tienes que instalarlo y probar una pelicula en torrent."
