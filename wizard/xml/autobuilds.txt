@@ -8,8 +8,8 @@ url="https://bit.ly/32mFUYA"
 gui=""
 kodi="18"
 theme="http://"
-icon="https://stva.zriel.net/wizard/imagenes/homespt.png"
-fanart="https://stva.zriel.net/wizard/imagenes/anethome.png"
+icon="https://gtkingbuild.github.io/wizard/imagenes/gtkicon.png"
+fanart="https://gtkingbuild.github.io/wizard/imagenes/homegtking.jpg"
 preview=""
 adult="No"
 info="http://"
@@ -21,8 +21,8 @@ url="https://bit.ly/3937mf9"
 gui=""
 kodi="16"
 theme="http://"
-icon="https://stva.zriel.net/wizard/imagenes/homespt.png"
-fanart="https://stva.zriel.net/wizard/imagenes/anethome.png"
+icon="https://gtkingbuild.github.io/wizard/imagenes/iconpargtk.png"
+fanart="https://gtkingbuild.github.io/wizard/imagenes/iconparc.jpg"
 preview=""
 adult="No"
 info="http://"
@@ -34,16 +34,10 @@ url="https://bit.ly/30kdMmb"
 gui=""
 kodi="15"
 theme="http://"
-icon="https://stva.zriel.net/wizard/imagenes/quasar.png"
-fanart="https://stva.zriel.net/wizard/imagenes/fanart.jpg"
+icon="https://gtkingbuild.github.io/wizard/imagenes/iconpargtk.png"
+fanart="https://gtkingbuild.github.io/wizard/imagenes/iconparc.jpg"
 preview=""
 adult="No"
 info="http://"
-description="PARCHE CON EL ADDON QUASAR ACTIVADO Y CONFIGURADO[CR]
-[COLOR red]ESTE PARCHE NO CONTIENE LA VERSION COMPLETA DE LA BUILD. SOLO CONTIENE LOS ARCHIVOS DEL ADDON QUASAR Y SU CONFIGURACION.[/COLOR][CR]
-[COLOR white]SI QUIERES SEGUIR RECIBIENDO LAS [COLOR yellow]NOTIFICACIONES DE ACTUALIZACION[/COLOR] DE LA BUILD STVA, AL INICIAR KODI[CR]
-DESPUES DE INSTALAR EL PARCHE QUASAR, INSTALA [/COLOR][COLOR green]EL PARCHE STVA ACTUALIZABLE O EL EXTENDIDO[/COLOR] [COLOR white][CR]
-Es posible que aparezcan problemas con Torrenter (el addon a traves del cual se ven los videos torrent). Pasa en Android en versiones kodi 17.4 o superior.[CR]
-Si fuera tu caso, este Parche contiene el addon Quasar para cualquier dispositivo, ya configurado.
-Solo tienes que instalarlo y probar una pelicula en torrent."
+description="Gracias a todos por confiar en nosotros.
 
