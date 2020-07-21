@@ -1,6 +1,9 @@
-name="Buffer Kodi 18"
+name="Buffer GTKing Kodi 18"
 section="yes"
-url="https://tvban.github.io/wizard/xml/Buffer-leia.txt"
+url="https://gtkingbuild.github.io/wizard/xml/Buffer-leia.txt"
 icon="https://i.imgur.com/78LMRnT.png" 
 fanart="https://i.imgur.com/jtTx5ME.jpg"
 description="Kodi 18 Leia"
+
+
+

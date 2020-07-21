@@ -1,28 +1,30 @@
 
 name="Por ROM"
 section="no"
-url="https://tvban.github.io/wizard/buffer/ROM.xml"
+url="https://gtkingbuild.github.io/wizard/buffer/ROM.xml"
 icon="https://i.imgur.com/78LMRnT.png" 
 fanart="https://i.imgur.com/jtTx5ME.jpg"
 description="Advanced Settings File"
 
 name="1GB de RAM"
 section="no"
-url="https://tvban.github.io/wizard/buffer/1Gb-Ram.xml"
+url="https://gtkingbuild.github.io/wizard/buffer/1Gb-Ram.xml"
 icon="https://i.imgur.com/78LMRnT.png" 
 fanart="https://i.imgur.com/jtTx5ME.jpg"
 description="Advanced Settings File"
 
 name="2GB de RAM"
 section="no"
-url="https://tvban.github.io/wizard/buffer/2Gb-Ram.xml"
+url="https://gtkingbuild.github.io/wizard/buffer/2Gb-Ram.xml"
 icon="https://i.imgur.com/78LMRnT.png" 
 fanart="https://i.imgur.com/jtTx5ME.jpg"
 description="Advanced Settings"
 
 name="3GB+ de RAM"
 section="no"
-url="https://tvban.github.io/wizard/buffer/3Gb-Ram.xml"
+url="https://gtkingbuild.github.io/wizard/buffer/3Gb-Ram.xml"
 icon="https://i.imgur.com/78LMRnT.png" 
 fanart="https://i.imgur.com/jtTx5ME.jpg"
 description="Advanced Settings"
+
+
