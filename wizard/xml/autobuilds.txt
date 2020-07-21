@@ -13,7 +13,7 @@ fanart="https://gtkingbuild.github.io/wizard/imagenes/fanart.png"
 preview=""
 adult="No"
 info="http://"
-description="Base Aura con peliculas, series, television y deportes"
+description="Build GTKing Prime con muchos contenidos"
 
 name="BUILD GTKING PRIME"
 version="1.0"
@@ -40,7 +40,7 @@ fanart="https://gtkingbuild.github.io/wizard/imagenes/fanart.png"
 preview=""
 adult="No"
 info="http://"
-description="Parche Cambios Aura. No contiene la Base completa, solo los cambios."
+description="Parche Para GTKing Prime. Solo para atajos de los contenidos."
 
 name="PARCHE"
 version=""
@@ -53,10 +53,4 @@ fanart="https://gtkingbuild.github.io/wizard/imagenes/atodo.jpg"
 preview=""
 adult="No"
 info="http://"
-description="PARCHE CON EL ADDON QUASAR ACTIVADO Y CONFIGURADO[CR]
-[COLOR red]ESTE PARCHE NO CONTIENE LA VERSION COMPLETA DE LA BUILD. SOLO CONTIENE LOS ARCHIVOS DEL ADDON QUASAR Y SU CONFIGURACION.[/COLOR][CR]
-[COLOR white]SI QUIERES SEGUIR RECIBIENDO LAS [COLOR yellow]NOTIFICACIONES DE ACTUALIZACION[/COLOR] DE LA BUILD GTKING, AL INICIAR KODI[CR]
-DESPUES DE INSTALAR EL PARCHE QUASAR, INSTALA [/COLOR][COLOR green]EL PARCHE GTKING ACTUALIZABLE O EL EXTENDIDO[/COLOR] [COLOR white][CR]
-Es posible que aparezcan problemas con Torrenter (el addon a traves del cual se ven los videos torrent). Pasa en Android en versiones kodi 17.4 o superior.[CR]
-Si fuera tu caso, este Parche contiene el addon Quasar para cualquier dispositivo, ya configurado.
-Solo tienes que instalarlo y probar una pelicula en torrent."
+description="Gracias"
