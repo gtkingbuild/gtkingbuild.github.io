@@ -16,7 +16,7 @@ info="http://"
 description="Build GTKing Prime con muchos contenidos"
 
 name="PARCHE GTKING PRIME"
-version="1.1"
+version="1.1.2"
 url="https://bit.ly/2DeAdSn"
 gui=""
 kodi="16"
