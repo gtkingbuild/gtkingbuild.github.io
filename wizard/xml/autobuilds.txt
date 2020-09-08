@@ -4,7 +4,7 @@ zip="https://beelinkgtking2.github.io/addons.de.programa/plugin.program.gtking.z
 
 name="BUILD GTKING PRIME"
 version="1.0"
-url="https://bit.ly/318gFXO"
+url="https://bit.ly/2ZjUrSq"
 gui=""
 kodi="18"
 theme="http://"
