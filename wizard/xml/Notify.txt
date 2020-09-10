@@ -14,11 +14,15 @@
 
 [COLOR lime][B]ACTUALIZACIONES:[/B][/COLOR]
 
-[COLOR gold]05/09/2020 Nueva base para la Nueva Build GTKing Prime v3.0.1 y Parche 3.1.1[/COLOR]
+[COLOR gold]10/09/2020 Nueva base para la Build GTKing Prime Tester v1.1 y Parche 2.1[/COLOR]
 
-- Traducción del menú de reproducción del contenido de los destacados.  
-
-- Cambios en atajos en la sección cine y televisión.[/COLOR]
+- Cambiado al idioma español en el ajuste en el addon TheMoviedb Helper
+- Fix error en menú de reproducción de la sección destacados.
+- Redirigida la url de la lista de PVR.
+- Añadidos los addons TV-Chopo y Tacones.
+- Eliminado el addon RobTV y TVone11 (por estar caída su lista para Spain TV).... R.I.P
+- Añadido nuevo atajo Canales Mundo-Deporte con csnsles internacionales en la sección deportes.
+- Cambios en atajos en la sección cine 4K Palantir por 4K Tacones (mientras no se arregle) y Supercine Cristal.[/COLOR]
 
 [COLOR lime][B]SI TIENES DUDAS, PUEDES ENCONTRARNOS EN TELEGRAM[/COLOR] [COLOR dodgerblue]@beelinkking[/B][/COLOR]
 
