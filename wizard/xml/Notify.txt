@@ -21,6 +21,7 @@
 - Redirigida la url de la lista de PVR.
 - Añadidos los addons TV-Chopo y Tacones.
 - Eliminado el addon RobTV y TVone11 (por estar caída su lista para Spain TV).... R.I.P
+- Al eliminar RobTV se cambia por otra lista de TV-Chopo.
 - Añadido nuevo atajo Canales Mundo-Deporte con csnsles internacionales en la sección deportes.
 - Cambios en atajos en la sección cine 4K Palantir por 4K Tacones (mientras no se arregle) y Supercine Cristal.[/COLOR]
 
