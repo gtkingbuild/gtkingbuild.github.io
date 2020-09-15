@@ -19,10 +19,10 @@
 - Cambiado al idioma español en el ajuste en el addon TheMoviedb Helper
 - Fix error en menú de reproducción de la sección destacados.
 - Redirigida la url de la lista de PVR.
-- Añadidos los addons TV-Chopo y Tacones.
-- Eliminado el addon RobTV y TVone11 (por estar caída su lista para Spain TV).... R.I.P
+- Añadidos los addons TV-Chopo, Tacones y el script Open Info para ver la información extendida de las películas. 
+- Eliminado el addon RobTv, The Crew y TVone11 (por estar caída su lista para Spain TV).... R.I.P
 - Al eliminar RobTV se cambia por otra lista de TV-Chopo.
-- Añadido nuevo atajo Canales Mundo-Deporte con csnsles internacionales en la sección deportes.
+- Añadido nuevo atajo Canales Mundo-Deporte con canales internacionales en la sección deportes.
 - Cambios en atajos en la sección cine 4K Palantir por 4K Tacones (mientras no se arregle) y Supercine Cristal.[/COLOR]
 
 [COLOR lime][B]SI TIENES DUDAS, PUEDES ENCONTRARNOS EN TELEGRAM[/COLOR] [COLOR dodgerblue]@beelinkking[/B][/COLOR]
