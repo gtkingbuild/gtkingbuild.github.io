@@ -1,22 +1,47 @@
 1
+
 |||
-[COLOR purple][B]16/6/20 - PARCHE Cambios GTKING Prime v2.0.1[/B][/COLOR]
-[COLOR white]– Cambiado widget2 de Películas de Grantorrent a TuPeliHD
-– Cambiados enlaces Destacados de Televisión, ahora son Addons de Hiraya. Dplay, A3player, Mitele, rtve alacarta...
-– Agregadas categorías en Televisión (los que se han quitado de Destacados)
-– Cambiados algunos ajustes del Skin. [B]Mejora el rendimiento y la fluidez en dispositivos poco potentes[/B]. Se recomienda ir a Ajustes y pulsar el botón Destacados On/Off en los dispositivos poco potentes.
 
-Además de esos cambios, el skin también se ha actualizado a la versión 1.3.2, donde se ha incluido un botón en Ajustes para desactivar los widgets Destacados. Estos consumen muchos recursos en dispositivos poco potentes.
-Además se ha arreglado la ventana de información al pulsar en un Destacado o al hacer pulsación larga sobre una película o serie. Ahora muestra mejor la información, los tr
-áilers funcionan y en Reparto & Más se muestran las imágenes correctamente.[/COLOR]
+[COLOR lime][B]BUILD Y PARCHE GTKING PRIME[/B][/COLOR]
 
+- [COLOR darkorchid][B]Si os salta una Notificación de actualización pulsar en[/B][/COLOR] [COLOR dodgerblue][B]ACTUALIZAR[/B][/COLOR]
 
-[B]SI TIENES DUDAS, EN LA WEB TIENES TODO LO NECESARIO:[/B]
-- bit.ly/consejos-gtking
-- bit.ly/parches-gtking
-- bit.ly/instalacion-gtking
-- bit.ly/nomefunciona-gtking
-- Ademas, descargas, manuales, toda la info necesaria para instalar y usar GTKING.
+- [COLOR red][B]ATENCIÓN:[/B][/COLOR] Si pulsas en [COLOR green][B]Instalar Build[/B][/COLOR] es instalar desde 0.
 
-[COLOR dodgerblue][B]gtking[/B][/COLOR]
-Tambien puedes entrar al canal de telegram t.me/beelinkgtking
+ 
+
+ 
+
+[COLOR lime][B]ACTUALIZACIONES:[/B][/COLOR]
+
+[COLOR gold]10/09/2020 Nueva base para la Build GTKing Prime Tester v1.1 y Parche 2.1[/COLOR]
+
+- Cambiado al idioma español en el ajuste en el addon TheMoviedb Helper
+- Fix error en menú de reproducción de la sección destacados.
+- Redirigida la url de la lista de PVR.
+- Añadidos los addons TV-Chopo, Tacones y el script Open Info para ver la información extendida de las películas. 
+- Eliminado el addon RobTv, The Crew y TVone11 (por estar caída su lista para Spain TV).... R.I.P
+- Al eliminar RobTV se cambia por otra lista de TV-Chopo.
+- Añadido nuevo atajo Canales Mundo-Deporte con canales internacionales en la sección deportes.
+- Cambios en atajos en la sección cine 4K Palantir por 4K Tacones (mientras no se arregle) y Supercine Cristal.[/COLOR]
+
+[COLOR lime][B]SI TIENES DUDAS, PUEDES ENCONTRARNOS EN TELEGRAM[/COLOR] [COLOR dodgerblue]@beelinkking[/B][/COLOR]
+
+ 
+
+[COLOR white]- Manuales de Configuracion
+
+- Video Tutoriales
+
+- Ayuda Sobre kodi[/COLOR]
+
+ 
+
+ 
+
+[COLOR dodgerblue]https://t.me/beelinkking[/COLOR]
+
+ 
+
+[COLOR lime][B]GRACIAS POR UTILIZAR GTKING PRIME![/B]
+
