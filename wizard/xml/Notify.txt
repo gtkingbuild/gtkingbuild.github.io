@@ -23,7 +23,7 @@
 - Eliminado el addon RobTv, The Crew y TVone11 (por estar caída su lista para Spain TV).... R.I.P
 - Añadido addon y atajo a TVtap, añadidas listas de TV-Chopo, redireccionado el atajo a listas Chikiry.
 - Añadidos nuevos atajos, Deportes Chopo y Canales Mundo-Deporte con canales internacionales en la sección deportes.
-- Añadido atajo a Cristal Cine HD y cambios en atajos en la sección cine 4K Palantir por 4K Tacones (mientras no se arregle) y Supercine Cristal.[/COLOR]
+- Añadido atajo a Supercine Cristal Tendencias y cambios en atajos en la sección cine 4K Palantir por 4K Tacones (mientras no se arregle) y Supercine Cristal.[/COLOR]
 
 [COLOR lime][B]SI TIENES DUDAS, PUEDES ENCONTRARNOS EN TELEGRAM[/COLOR] [COLOR dodgerblue]@beelinkking[/B][/COLOR]
 
