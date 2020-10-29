@@ -26,7 +26,7 @@ fanart="https://gtkingbuild.github.io/wizard/imagenes/fanart.png"
 preview=""
 adult="No"
 info="http://"
-description="Versión táctil de la build GTKing"
+description="Versión táctil de la Build GTKing"
 
 name="PARCHE GTKING PRIME"
 version="2.7.1"
