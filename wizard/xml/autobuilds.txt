@@ -17,7 +17,7 @@ description="Build GTKing Prime con muchos contenidos"
 
 name="TÁCTIL GTKING TEAM"
 version="0.1"
-url="https://bit.ly/30kdMmb"
+url="https://bit.ly/3kFJG5w"
 gui=""
 kodi="18"
 theme="http://"
