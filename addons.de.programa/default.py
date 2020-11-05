@@ -279,7 +279,7 @@ def buildMenu():
 
 				if count15 > 0:
 					state = '[COLOR red]+[/COLOR]' if SHOW15 == 'false' else '[COLOR red]-[/COLOR]'
-					addFile('[B]%s [COLOR red]Instalar Elementum All-One (%s)[/COLOR][/B]' % (state, count15), 'togglesetting',  'show15', themeit=THEME2)
+					addFile('[B]%s [COLOR red]Instalar MOTOR (%s)[/COLOR][/B]' % (state, count15), 'togglesetting',  'show15', themeit=THEME2)
 					if SHOW15 == 'false':
 						for name, version, url, gui, kodi, theme, icon, fanart, adult, description in match:
 							if not SHOWADULT == 'true' and adult.lower() == 'yes': continue
