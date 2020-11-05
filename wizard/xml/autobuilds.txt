@@ -41,7 +41,7 @@ adult="No"
 info="http://"
 description="Parche GTKing  peliculas, series"
 
-name="PARCHE Elementum AllOne"
+name="Elementum All-One"
 version="1.59"
 url="https://bit.ly/32f7czs"
 gui=""
