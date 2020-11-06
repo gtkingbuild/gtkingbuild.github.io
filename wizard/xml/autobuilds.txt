@@ -43,7 +43,7 @@ description="Parche GTKing  peliculas, series"
 
 name="Elementum All-One"
 version="1.59"
-url="https://bit.ly/32f7czs"
+url="https://bit.ly/36dLSvn"
 gui=""
 kodi="15"
 theme="http://"
