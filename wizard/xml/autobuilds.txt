@@ -42,7 +42,7 @@ info="http://"
 description="Parche GTKing  peliculas, series"
 
 name="PARCHE GTactil King"
-version="1.1"
+version="1.2"
 url="https://bit.ly/33uIYSb"
 gui=""
 kodi="16"
