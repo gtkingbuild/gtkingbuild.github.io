@@ -4,7 +4,7 @@ zip="https://github.com/gtkingbuild/gtkingbuild.github.io/tree/master/addons.de.
 
 name="BUILD GTKING PRIME"
 version="1.5"
-url="https://bit.ly/3olIaaB"
+url="https://bit.ly/3hiR18A"
 gui=""
 kodi="18"
 theme="http://"
@@ -30,7 +30,7 @@ description="Versión táctil de la Build GTKing"
 
 name="PARCHE GTKING PRIME"
 version="2.9.9.9"
-url="https://bit.ly/3mZgKGq"
+url="https://bit.ly/3or4sYE"
 gui=""
 kodi="16"
 theme="http://"
