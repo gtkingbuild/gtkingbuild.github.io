@@ -4,7 +4,7 @@ zip="https://github.com/gtkingbuild/gtkingbuild.github.io/tree/master/addons.de.
 
 name="BUILD GTKING PRIME"
 version="1.5"
-url="https://bit.ly/3hiR18A"
+url="https://bit.ly/3olIaaB"
 gui=""
 kodi="18"
 theme="http://"
