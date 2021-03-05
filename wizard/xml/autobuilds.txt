@@ -3,7 +3,7 @@ version="2.2.0"
 zip="https://github.com/gtkingbuild/gtkingbuild.github.io/tree/master/addons.de.programa/"
 
 name="GTKING MATRIX"
-version="3.0"
+version="1.5"
 url="https://bit.ly/3hiR18A"
 gui=""
 kodi="19"
