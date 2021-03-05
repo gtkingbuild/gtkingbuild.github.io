@@ -2,7 +2,7 @@ id="plugin.program.gtking.zip"
 version="2.2.0"
 zip="https://github.com/gtkingbuild/gtkingbuild.github.io/tree/master/addons.de.programa/"
 
-name="BUILD GTKING PRIME MATRIX"
+name="BUILD GTKING MATRIX"
 version="3.0"
 url="https://github.com/gtkingbuild/Repo-PRUEBA/releases/download/1.1/GTKing.Prime.zip"
 gui=""
