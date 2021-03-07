@@ -2,24 +2,34 @@
 name="GTKing MATRIX"
 version="1.0"
 url="https://bit.ly/3hiR18A"
-
 minor="http://"
-
 gui="http://"
-
 kodi="19"
-
 theme="http://"
-
 icon="https://gtkingbuild.github.io/wizard/imagenes/bgtki.png"
-
 fanart="https://gtkingbuild.github.io/wizard/imagenes/fanart.png"
-
 preview="http://"
-
 adult="No"
-
 info="http://"
-
 description="Diggz Xenon 2 MATRIX. Updated 3/3/21"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
