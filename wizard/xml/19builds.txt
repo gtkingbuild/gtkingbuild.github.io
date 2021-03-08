@@ -18,7 +18,7 @@ description="GTKing Prime para KODI 19.x Matrix"
 
 name="GTKing Prime LEIA"
 version="1.5"
-url="https://bit.ly/3hiR18A"
+url="https://github.com/gtkingbuild/Repo-PRUEBA/releases/download/1.1/GTKing.Prime.zip"
 gui=""
 kodi="18.9"
 theme="http://"
