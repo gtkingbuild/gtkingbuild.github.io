@@ -44,7 +44,7 @@ adult="No"
 info="http://"
 description="Build GTking Táctil para KODI 18.x Leia"
 
-name="[COLOR white]Elementum All-One[/COLOR]"
+name="Elementum All-One"
 version="1.59"
 url="https://github.com/gtkingbuild/Repo-PRUEBA/releases/download/1.59/elementun.zip"
 minor="http://"
