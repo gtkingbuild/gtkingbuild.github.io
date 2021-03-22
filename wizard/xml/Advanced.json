@@ -1,0 +1,14 @@
+{
+    "presets": [
+        {
+            "name": "[COLOR red]Buffer Kodi 19 Matrix[/COLOR]",
+            "section": true,
+            "url": "https://raw.githubusercontent.com/beelinkgtking2/beelinkgtking2.github.io/master/wizard/xml/Advance-Matrix.json",
+            "icon": "https://i.imgur.com/78LMRnT.png",
+            "fanart": "https://i.imgur.com/jtTx5ME.jpg",
+            "description": "Diferentes ajustes de buffer para Kodi 19 Matrix."
+         }
+    ]
+}
+
+        

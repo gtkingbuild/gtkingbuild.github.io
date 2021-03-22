@@ -1,47 +1,57 @@
 1
-
 |||
-
 [COLOR lime][B]BUILD Y PARCHE GTKING PRIME[/B][/COLOR]
-
 - [COLOR darkorchid][B]Si os salta una Notificación de actualización pulsar en[/B][/COLOR] [COLOR dodgerblue][B]ACTUALIZAR[/B][/COLOR]
 
 - [COLOR red][B]ATENCIÓN:[/B][/COLOR] Si pulsas en [COLOR green][B]Instalar Build[/B][/COLOR] es instalar desde 0.
-
  
-
  
+[COLOR lime][B]ACTUALIZACIÓN:[/B][/COLOR]
+[COLOR gold]16/02/2021 Actualización Prime v.3.9.1 y GTactil 2.1[/COLOR]
+- Redirigidos atajos Listas Chikiry y Magellan. 
+- Redirigidos atajos en películas y series.
+- Redirigidos atajos de buscadores de Cristal.
+- Cambiado atajo de series AMC por the CW.
+- Añadido botón actualizar videoteca de kodi (Prime). 
+- Añadido addon Winner Sports.
+- Estilo widget series tendencias cambiado a Poster (Prime).
 
-[COLOR lime][B]ACTUALIZACIONES:[/B][/COLOR]
+[COLOR gold]12/01/20201 Actualización Prime v.3.8.6 y GTactil 1.5[/COLOR]
+- Eliminado addon Torrenter por incompatibilidad con Alfa y Elementum.
 
-[COLOR gold]10/09/2020 Nueva base para la Build GTKing Prime Tester v1.1 y Parche 2.1[/COLOR]
+[COLOR gold]07/01/20201 Actualización Prime v.3.8.0.1 y GTactil 1.0.1[/COLOR]
+- Redirigidos varios atajos.
+- Añadido addon Oldqueen.
 
-- Cambiado al idioma español en el ajuste en el addon TheMoviedb Helper
-- Fix error en menú de reproducción de la sección destacados.
-- Redirigida la url de la lista de PVR.
-- Añadidos los addons TV-Chopo, Tacones y el script Open Info para ver la información extendida de las películas. 
-- Eliminado el addon RobTv, The Crew y TVone11 (por estar caída su lista para Spain TV).... R.I.P
-- Añadido addon y atajo a TVtap, añadidas listas de TV-Chopo, redireccionado el atajo a listas Chikiry.
-- Añadidos nuevos atajos, Deportes Chopo y Canales Mundo-Deporte con canales internacionales en la sección deportes.
-- Añadido atajo a Supercine Cristal Tendencias y cambios en atajos en la sección cine 4K Palantir por 4K Tacones (mientras no se arregle) y Supercine Cristal.[/COLOR]
+[COLOR gold]23/12/2020 Actualización Prime v.3.8.0 y Parche 3.8.2[/COLOR]
+- Eliminado addon Mediaexplorer.
+- Añadidos addons Chopo Cine y Chopo series.
+- Cambiado destacados de películas por Palantir Novedades (PRIME).
+- Redireccionado atajo torrents HD a Cristal Torrents.
+- Reparados varios atajos
+- Series Netflix, Movistar y Amazon ahora son de Tvchopo. 
+- Redirigidos atajos averiados en sección PELÍCULAS y SERIES. 
+- Redirigido atajo chopo deportes
+- Arreglados varios widgets de ambas builds.
+
+[COLOR gold]14/11/2020 Nueva actualización v3.6.0 y Parche 3.6.1[/COLOR]
+- Añadido el motor torrent Elementum en el menú de builds y parches de GTKing Wizard.
+- Añadido addon Palantir 2 con iconos abstractos.
+- Añadida sección Chopo Footters.
+- Añadido servicio de subtitulos de OpenSubtitles.
+- Cambiada versión de TheMovieDb Helper por problemas con widgets Destacados.
+- Cambiados colores del texto de algunos addons desde la skin para visualizarlos mejor.
+
+[COLOR gold]14/11/2020 Estreno build GTactil King.[/COLOR]
+- Iniciada la versión táctil de la build GTKing Prime. 
 
 [COLOR lime][B]SI TIENES DUDAS, PUEDES ENCONTRARNOS EN TELEGRAM[/COLOR] [COLOR dodgerblue]@beelinkking[/B][/COLOR]
-
  
-
 [COLOR white]- Manuales de Configuracion
-
 - Video Tutoriales
-
 - Ayuda Sobre kodi[/COLOR]
-
  
-
  
-
 [COLOR dodgerblue]https://t.me/beelinkking[/COLOR]
-
  
-
-[COLOR lime][B]GRACIAS POR UTILIZAR GTKING PRIME![/B]
-
+[COLOR lime][B]GRACIAS POR UTILIZAR GTKING PRIME![/B][/COLOR]

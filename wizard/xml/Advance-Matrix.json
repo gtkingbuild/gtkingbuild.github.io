@@ -1,0 +1,36 @@
+{
+    "presets": [
+        {
+            "name": "[B]Por ROM[/B]",
+            "section": false,
+            "url": "https://raw.githubusercontent.com/beelinkgtking2/beelinkgtking2.github.io/master/buffer/ROM.xml",
+            "icon": "https://i.imgur.com/78LMRnT.png",
+            "fanart": "https://i.imgur.com/jtTx5ME.jpg",
+            "description": "Este ajuste utiliza la memoria ROM como buffer, ideal para dispositivos con gran capacidad de memoria externa."
+        },
+        {
+            "name": "[B]1Gb de RAM[/B]",
+            "section": false,
+            "url": "https://raw.githubusercontent.com/beelinkgtking2/beelinkgtking2.github.io/master/buffer/1Gb-Ram.xml",
+            "icon": "https://i.imgur.com/78LMRnT.png",
+            "fanart": "https://i.imgur.com/jtTx5ME.jpg",
+            "description": "Este ajuste es para dispositivos poco potentes y de hasta 2Gb de RAM máximo."
+        },
+        {
+            "name": "[B]2Gb de RAM[/B]",
+            "section": false,
+            "url": "https://raw.githubusercontent.com/beelinkgtking2/beelinkgtking2.github.io/master/buffer/2Gb-Ram.xml",
+            "icon": "https://i.imgur.com/78LMRnT.png",
+            "fanart": "https://i.imgur.com/jtTx5ME.jpg",
+            "description": "Este ajuste es para dispositivos de hasta 3Gb de Ram máximo."
+        },
+        {
+            "name": "[B]+3Gb de RAM[/B]",
+            "section": false,
+            "url": "https://raw.githubusercontent.com/beelinkgtking2/beelinkgtking2.github.io/master/buffer/3Gb-Ram.xml",
+            "icon": "https://i.imgur.com/78LMRnT.png",
+            "fanart": "https://i.imgur.com/jtTx5ME.jpg",
+            "description": "Este ajuste es para dispositivos potentes y de más de 3Gb de RAM."
+        }
+    ]
+}
