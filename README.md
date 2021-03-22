@@ -1,3 +1,3 @@
 # gtkingbuild.github.io
-https://i.imgur.com/koC2D27.png
 
+![img](https://github.com/tvban/tvban.github.io/blob/master/wizard/imagenes/tbuild.png?raw=true)
