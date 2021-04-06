@@ -2,7 +2,7 @@ id="plugin.program.GTKing-3.0.4.zip"
 version="3.0.0"
 zip="https://github.com/gtkingbuild/gtkingbuild.github.io/blob/master/addons.de.programa/"
 
-name="[B][COLOR azure]GTKing[/B][/COLOR] [B][COLOR lime]MATRIX[/B][/COLOR]"
+name="GTKing MATRIX"
 version="1.0"
 url="https://github.com/gtkingbuild/Repo-GTKing/releases/download/1.0/GTKing.MATRIX.zip"
 minor="http://"
