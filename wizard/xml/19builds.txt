@@ -30,7 +30,7 @@ adult="No"
 info="http://"
 description="Build GTKing Prime para KODI 18.x Leia"
 
-name="[COLOR azure]TÁCTIL GTKING TEAM[/COLOR]"
+name="TÁCTIL GTKING TEAM"
 version="1.0"
 url="https://github.com/gtkingbuild/Repo-GTKing/releases/download/2.0/GTactil.zip"
 minor="http://"
