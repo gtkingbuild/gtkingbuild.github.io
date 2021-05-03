@@ -29,7 +29,7 @@ info="http://"
 description="Versión táctil de la Build GTKing"
 
 name="PARCHE GTKING PRIME"
-version="3.9.1"
+version="3.9.2"
 url="https://bit.ly/3df1ZML"
 gui=""
 kodi="15"
