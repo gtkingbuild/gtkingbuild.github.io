@@ -7,7 +7,9 @@
  
 [COLOR lime][B]ACTUALIZACIÓN:[/B][/COLOR]
 [COLOR gold]03/05/2021 Actualización Prime v.3.9.2 - GTactil v.1.6[/COLOR]
-[COLOR white]- Añadido addon Horus. 
+[COLOR white]- Añadido addon Horus.
+- Añadido addon Vilhao
+- Añadidos iconos del tiempo en la esquina sup. dcha. 
 - Redirigido atajo HD Torrents de Peliculas. 
 - Redirigido widget "Pelis Destacadas" por "Peliculas HD 1080" en películas.
 - Desactivado widget "Pelotazos" en Series.
