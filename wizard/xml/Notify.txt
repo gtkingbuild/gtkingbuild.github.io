@@ -6,10 +6,12 @@
 - [COLOR red][B]ATENCIÓN:[/B][/COLOR] [COLOR white]Si pulsas en[/COLOR] [COLOR green][B]Instalar Build[/B][/COLOR] [COLOR white]es instalar desde 0.[/COLOR]
  
 [COLOR lime][B]ACTUALIZACIÓN:[/B][/COLOR]
-[COLOR gold]03/05/2021 Actualización Prime v.3.9.2 - GTactil v.1.6[/COLOR]
+[COLOR gold]03/05/2021 Actualización Prime v.3.9.5 - GTactil v.1.6[/COLOR]
 [COLOR white]- Añadido addon Horus.
 - Añadido addon Vilhao
-- Añadidos iconos del tiempo en la esquina sup. dcha. 
+- Añadidos iconos del tiempo en la esquina sup. dcha.
+- Eliminado addon Oldqueen.
+- Eliminado addon Kelebek (Nueva versión en el repositorio Repo GTKing). 
 - Redirigido atajo HD Torrents de Peliculas. 
 - Redirigido widget "Pelis Destacadas" por "Peliculas HD 1080" en películas.
 - Desactivado widget "Pelotazos" en Series.
