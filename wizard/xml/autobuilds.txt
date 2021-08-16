@@ -56,7 +56,7 @@ description="Parche GTactil King peliculas, series"
 
 name="Elementum All-One"
 version="1.59"
-url="https://bit.ly/3ft2fdA"
+url="https://bit.ly/2W0Q1l5"
 gui=""
 kodi="16"
 theme="http://"
