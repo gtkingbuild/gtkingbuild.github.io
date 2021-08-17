@@ -43,7 +43,7 @@ description="Parche GTKing Prime"
 
 name="PARCHE GTÁCTIL"
 version="1.6"
-url="https://bit.ly/3CVtdDP"
+url="https://bit.ly/3cdrY7E"
 gui=""
 kodi="15"
 theme="http://"
