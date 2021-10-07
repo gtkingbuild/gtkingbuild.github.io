@@ -1,4 +1,3 @@
-
 <advancedsettings>
     <video>
         <allowmpeg4vaapi>true</allowmpeg4vaapi>
@@ -30,11 +29,11 @@
  <curlretries>3</curlretries>
     </network>
  <cache>
-        <buffermode>0</buffermode>
+        <buffermode>4</buffermode>
         <curlclienttimeout>60</curlclienttimeout>
         <curllowspeedtime>60</curllowspeedtime>
 <freememorycachepercent>5</freememorycachepercent>
-        <memorysize>0</memorysize>
+        <memorysize>629145600</memorysize>
         <readfactor>30</readfactor>
     </cache>
     <airplayport>20</airplayport>
@@ -43,4 +42,6 @@
 <fanartres>2160</fanartres>
 <imageres>1080</imageres>
 </advancedsettings>
+
+    
 
