@@ -2,6 +2,6 @@
 <network> 
 <buffermode>1</buffermode> 
 <readfactor>30.0<readfactor>
-<cachemembuffersize>104857800</cachemembuffersize> 
+<cachemembuffersize>209715200</cachemembuffersize> 
 </network>
 </advancedsettings>
