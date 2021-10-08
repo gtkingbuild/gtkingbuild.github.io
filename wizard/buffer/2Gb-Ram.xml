@@ -30,7 +30,7 @@
  <curlretries>3</curlretries>
     </network>
  <cache>
-        <buffermode>0</buffermode>
+        <buffermode>1</buffermode>
         <curlclienttimeout>60</curlclienttimeout>
         <curllowspeedtime>60</curllowspeedtime>
 <freememorycachepercent>5</freememorycachepercent>
