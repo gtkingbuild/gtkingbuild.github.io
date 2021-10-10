@@ -31,6 +31,22 @@
             "icon": "https://i.imgur.com/XmIWMl9.png",
             "fanart": "https://i.imgur.com/ArK0VTd.jpg",
             "description": "Este ajuste es para dispositivos potentes y de más de 3Gb de RAM."
+        },
+		{
+            "name": "[B]PRUEBA +3Gb[/B]",
+            "section": false,
+            "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/3Gb-Ram Prueba.xml",
+            "icon": "https://i.imgur.com/XmIWMl9.png",
+            "fanart": "https://i.imgur.com/ArK0VTd.jpg",
+            "description": "Este ajuste es para dispositivos potentes y de más de 3Gb de RAM."
+        },
+		{
+            "name": "[B]PRUEBA 4Gb de RAM[/B]",
+            "section": false,
+            "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/4Gb-Ram.xml",
+            "icon": "https://i.imgur.com/XmIWMl9.png",
+            "fanart": "https://i.imgur.com/ArK0VTd.jpg",
+            "description": "Este ajuste es para dispositivos potentes y de más de 3Gb de RAM."
         }
     ]
 }
