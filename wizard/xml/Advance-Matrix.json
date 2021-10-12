@@ -1,7 +1,7 @@
 {
     "presets": [
         {
-            "name": "[B][COLOR lightskyblue]Por ROM[/COLOR][/B]",
+            "name": "[B][COLOR steelblue]Por ROM[/COLOR][/B]",
             "section": false,
             "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/ROM.xml",
             "icon": "https://i.imgur.com/cxidCdz.png",
