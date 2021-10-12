@@ -1,7 +1,7 @@
 {
     "presets": [
         {
-            "name": "[B]Por ROM[/B]",
+            "name": "[B][COLOR lightskyblue]Por ROM[/COLOR][/B]",
             "section": false,
             "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/ROM.xml",
             "icon": "https://i.imgur.com/cxidCdz.png",
@@ -17,7 +17,7 @@
             "description": "Este ajuste es para dispositivos poco potentes y de hasta 2Gb de RAM máximo."
         },
         {
-            "name": "[B][COLOR mediumseaGreen]2Gb de RAM[/COLOR][/B]",
+            "name": "[B][COLOR mediumseagreen]2Gb de RAM[/COLOR][/B]",
             "section": false,
             "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/2Gb-Ram.xml",
             "icon": "https://i.imgur.com/3jYVoRP.png",
@@ -25,7 +25,7 @@
             "description": "Este ajuste es para dispositivos de hasta 3Gb de Ram máximo."
         },
         {
-            "name": "[B][COLOR limegreen]+3Gb de RAM[/COLOR][/B]",
+            "name": "[B][COLOR lime]+3Gb de RAM[/COLOR][/B]",
             "section": false,
             "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/3Gb-Ram.xml",
             "icon": "https://i.imgur.com/XmIWMl9.png",
@@ -33,7 +33,7 @@
             "description": "Este ajuste es para dispositivos potentes y de más de 3Gb de RAM."
         },
 		{
-            "name": "[B][COLOR gray]PRUEBA +3Gb[/COLOR][/B]",
+            "name": "[B][COLOR coral]PRUEBA +3Gb[/COLOR][/B]",
             "section": false,
             "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/3Gb-Ram Prueba.xml",
             "icon": "https://i.imgur.com/XmIWMl9.png",
