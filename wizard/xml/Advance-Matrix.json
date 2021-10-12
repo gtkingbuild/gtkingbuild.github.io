@@ -9,7 +9,7 @@
             "description": "Este ajuste utiliza la memoria ROM como buffer, ideal para dispositivos con gran capacidad de memoria externa."
         },
         {
-            "name": "[B][COLOR mediumaquamarine]1Gb de RAM[/COLOR][/B]",
+            "name": "[B][COLOR powderblue]1Gb de RAM[/COLOR][/B]",
             "section": false,
             "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/1Gb-Ram.xml",
             "icon": "https://i.imgur.com/QgMZI9R.png",
@@ -17,7 +17,7 @@
             "description": "Este ajuste es para dispositivos poco potentes y de hasta 2Gb de RAM máximo."
         },
         {
-            "name": "[B][COLOR powderblue]2Gb de RAM[/COLOR][/B]",
+            "name": "[B][COLOR mediumaquamarine]2Gb de RAM[/COLOR][/B]",
             "section": false,
             "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/2Gb-Ram.xml",
             "icon": "https://i.imgur.com/3jYVoRP.png",
@@ -41,7 +41,7 @@
             "description": "Este ajuste es para dispositivos potentes y de más de 3Gb de RAM."
         },
 		{
-            "name": "[B][COLOR cyan]PRUEBA 4Gb de RAM[/COLOR][/B]",
+            "name": "[B][COLOR lavender]PRUEBA 4Gb de RAM[/COLOR][/B]",
             "section": false,
             "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/4Gb-Ram.xml",
             "icon": "https://i.imgur.com/XmIWMl9.png",
