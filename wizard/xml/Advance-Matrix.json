@@ -41,11 +41,7 @@
             "description": "Este ajuste es para dispositivos potentes y de más de 3Gb de RAM."
         },
 		{
-<<<<<<< HEAD
-            "name": "[B][COLOR cyan]PRUEBA 4Gb de RAM[/COLOR][/B]",
-=======
             "name": "[B][COLOR lavender]PRUEBA 4Gb de RAM[/COLOR][/B]",
->>>>>>> d26f83eb1bdb550ca04adf35451541b679dc125a
             "section": false,
             "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/4Gb-Ram.xml",
             "icon": "https://i.imgur.com/XmIWMl9.png",
