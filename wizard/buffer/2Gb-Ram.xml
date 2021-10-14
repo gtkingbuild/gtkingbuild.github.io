@@ -30,11 +30,11 @@
  <curlretries>3</curlretries>
     </network>
  <cache>
-        <buffermode>0</buffermode>
+        <buffermode>1</buffermode>
         <curlclienttimeout>60</curlclienttimeout>
         <curllowspeedtime>60</curllowspeedtime>
 <freememorycachepercent>5</freememorycachepercent>
-        <memorysize>418381824</memorysize>
+        <memorysize>314572800</memorysize>
         <readfactor>30</readfactor>
     </cache>
     <airplayport>20</airplayport>
