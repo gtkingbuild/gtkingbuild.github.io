@@ -33,7 +33,7 @@
         <buffermode>1</buffermode>
         <curlclienttimeout>60</curlclienttimeout>
         <curllowspeedtime>60</curllowspeedtime>
-<freememorycachepercent>5</freememorycachepercent>
+        <freememorycachepercent>5</freememorycachepercent>
         <memorysize>262144000</memorysize>
         <readfactor>30</readfactor>
     </cache>
