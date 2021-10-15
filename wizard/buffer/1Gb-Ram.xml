@@ -30,12 +30,12 @@
  <curlretries>3</curlretries>
     </network>
  <cache>
-        <buffermode>0</buffermode>
+        <buffermode>1</buffermode>
         <curlclienttimeout>60</curlclienttimeout>
         <curllowspeedtime>60</curllowspeedtime>
 <freememorycachepercent>5</freememorycachepercent>
-        <memorysize>209715200</memorysize>
-        <readfactor>30</readfactor>
+        <memorysize>52428800</memorysize>
+        <readfactor>15</readfactor>
     </cache>
     <airplayport>20</airplayport>
     <airtunesport>2</airtunesport>
