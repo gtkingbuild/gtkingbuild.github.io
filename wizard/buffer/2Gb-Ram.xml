@@ -34,7 +34,7 @@
         <curlclienttimeout>60</curlclienttimeout>
         <curllowspeedtime>60</curllowspeedtime>
 <freememorycachepercent>5</freememorycachepercent>
-        <memorysize>314572800</memorysize>
+        <memorysize>209715200</memorysize>
         <readfactor>30</readfactor>
     </cache>
     <airplayport>20</airplayport>
