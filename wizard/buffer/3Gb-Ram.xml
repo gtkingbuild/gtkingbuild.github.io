@@ -4,4 +4,8 @@
     <memorysize>209715200</memorysize>
     <readfactor>15</readfactor> 
   </cache>
+<<<<<<< HEAD
 </advancedsettings>
+=======
+</advancedsettings>
+>>>>>>> 6d20df652b4ac84aa58641e58169b5c541100623
