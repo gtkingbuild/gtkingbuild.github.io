@@ -1,44 +1,51 @@
-{
-    "presets": [
-        {
-            "name": "[B][COLOR steelblue]Por ROM[/COLOR][/B]",
-            "section": false,
-            "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/ROM.xml",
-            "icon": "https://i.imgur.com/cxidCdz.png",
-            "fanart": "https://i.imgur.com/ArK0VTd.jpg",
-            "description": "Este ajuste utiliza la memoria ROM como buffer, ideal para dispositivos con gran capacidad de memoria externa."
-        },
-        {
-            "name": "[B][COLOR powderblue]1Gb de RAM[/COLOR][/B]",
-            "section": false,
-            "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/1Gb-Ram.xml",
-            "icon": "https://i.imgur.com/QgMZI9R.png",
-            "fanart": "https://i.imgur.com/ArK0VTd.jpg",
-            "description": "Este ajuste es para dispositivos poco potentes y de hasta 2Gb de RAM máximo."
-        },
-        {
-            "name": "[B][COLOR mediumseagreen]2Gb de RAM[/COLOR][/B]",
-            "section": false,
-            "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/2Gb-Ram.xml",
-            "icon": "https://i.imgur.com/3jYVoRP.png",
-            "fanart": "https://i.imgur.com/ArK0VTd.jpg",
-            "description": "Este ajuste es para dispositivos de hasta 3Gb de Ram máximo."
-        },
-        {
-            "name": "[B][COLOR lime]+3Gb de RAM[/COLOR] [COLOR white](Opción 1)[/COLOR][/B]",
-            "section": false,
-            "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/3Gb-Ram.(opcion1).xml",
-            "icon": "https://i.imgur.com/XmIWMl9.png",
-            "fanart": "https://i.imgur.com/ArK0VTd.jpg",
-            "description": "Este ajuste es para dispositivos potentes y de más de 3Gb de RAM."
-        },
-		{
-            "name": "[B][COLOR lime]+3Gb de RAM[/COLOR] [COLOR white](Opción 2)[/COLOR][/B]",
-            "section": false,
-            "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/3Gb-Ram.(opcion2).xml",
-            "icon": "https://i.imgur.com/XmIWMl9.png",
-            "fanart": "https://i.imgur.com/ArK0VTd.jpg",
-            "description": "Este ajuste es para dispositivos potentes y de más de 3Gb de RAM."
-        }
-    ]
+
+"presets": [
+    {
+        "name": "[B][COLOR steelblue]Por ROM[/COLOR][/B]",
+        "section": false,
+        "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/ROM.xml",
+        "icon": "https://i.imgur.com/cxidCdz.png",
+        "fanart": "https://i.imgur.com/ArK0VTd.jpg",
+        "description": "Este ajuste utiliza la memoria ROM como buffer, ideal para dispositivos con gran capacidad de memoria externa."
+    },
+    {
+        "name": "[B][COLOR powderblue]1Gb de RAM[/COLOR][/B]",
+        "section": false,
+        "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/1Gb-Ram.xml",
+        "icon": "https://i.imgur.com/QgMZI9R.png",
+        "fanart": "https://i.imgur.com/ArK0VTd.jpg",
+        "description": "Este ajuste es para dispositivos poco potentes y de hasta 2Gb de RAM máximo."
+    },
+    {
+        "name": "[B][COLOR mediumseagreen]2Gb de RAM[/COLOR][/B]",
+        "section": false,
+        "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/2Gb-Ram.xml",
+        "icon": "https://i.imgur.com/3jYVoRP.png",
+        "fanart": "https://i.imgur.com/ArK0VTd.jpg",
+        "description": "Este ajuste es para dispositivos de hasta 3Gb de Ram máximo."
+    },
+    {
+        "name": "[B][COLOR lime]+3Gb de RAM[/COLOR] [COLOR white](Opción 1)[/COLOR][/B]",
+        "section": false,
+        "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/3Gb-Ram.(opcion1).xml",
+        "icon": "https://i.imgur.com/XmIWMl9.png",
+        "fanart": "https://i.imgur.com/ArK0VTd.jpg",
+        "description": "Este ajuste es para dispositivos potentes y de más de 3Gb de RAM."
+    },
+    {
+        "name": "[B][COLOR lime]+3Gb de RAM[/COLOR] [COLOR white](Opción 2)[/COLOR][/B]",
+        "section": false,
+        "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/3Gb-Ram.(opcion2).xml",
+        "icon": "https://i.imgur.com/XmIWMl9.png",
+        "fanart": "https://i.imgur.com/ArK0VTd.jpg",
+        "description": "Este ajuste es para dispositivos potentes y de más de 3Gb de RAM."
+    },
+    {
+		"name": "[B][COLOR dodgerblue]GTK[COLOR white]Buf [COLOR lime]de RAM[/COLOR][/B]",
+        "section": false,
+        "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/GTKingBuffer-Ram.xml",
+        "icon": "https://i.imgur.com/6XQn5za.png",
+        "fanart": "https://i.imgur.com/ArK0VTd.jpg",
+        "description": "Este ajuste no utiliza Cache, siendo más rápido reiniciar."
+    }
 }
