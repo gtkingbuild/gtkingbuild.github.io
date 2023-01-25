@@ -39,6 +39,14 @@
             "icon": "https://i.imgur.com/XmIWMl9.png",
             "fanart": "https://i.imgur.com/ArK0VTd.jpg",
             "description": "Este ajuste es para dispositivos potentes y de más de 3Gb de RAM."
+        },
+        {
+		    "name": "[B][COLOR dodgerblue]GTK[COLOR white]Buf [COLOR lime]de RAM[/COLOR][/B]",
+            "section": false,
+            "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/GTKingBuffer-Ram.xml",
+            "icon": "https://i.imgur.com/6XQn5za.png",
+            "fanart": "https://i.imgur.com/ArK0VTd.jpg",
+            "description": "Este ajuste no utiliza Cache, siendo más rápido reiniciar."
         }
     ]
 }
