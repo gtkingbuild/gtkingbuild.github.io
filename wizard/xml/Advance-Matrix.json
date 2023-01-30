@@ -42,7 +42,7 @@
         },
         {
 
-		    "name": "[B][COLOR dodgerblue]GTK[COLOR white]Buf [COLOR lime]de RAM [COLOR white]Todo en Uno[/COLOR][/B]",
+            "name": "[B][COLOR dodgerblue]GTK[COLOR white]Buf [COLOR lime]de RAM [COLOR white]Todo en Uno[/COLOR][/B]",
             "section": false,
             "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/GTKingBuffer-Ram.xml",
             "icon": "https://i.imgur.com/6XQn5za.png",
