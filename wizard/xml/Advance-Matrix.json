@@ -5,7 +5,7 @@
             "section": false,
             "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/ROM.xml",
             "icon": "https://i.imgur.com/H9rE8x3.png",
-            "fanart": "https://i.imgur.com/jtTx5ME.jpg",
+            "fanart": "https://i.imgur.com/XSpjxzM.jpg",
             "description": "Este ajuste utiliza la memoria ROM como buffer, ideal para dispositivos con gran capacidad de memoria externa."
         },
         {
@@ -13,7 +13,7 @@
             "section": false,
             "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/1Gb-Ram.xml",
             "icon": "https://i.imgur.com/zbAOrFK.png",
-            "fanart": "https://i.imgur.com/jtTx5ME.jpg",
+            "fanart": "https://i.imgur.com/XSpjxzM.jpg",
             "description": "Este ajuste es para dispositivos poco potentes y de hasta 2Gb de RAM máximo."
         },
         {
@@ -21,7 +21,7 @@
             "section": false,
             "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/2Gb-Ram.xml",
             "icon": "https://i.imgur.com/Dlh3Luo.png",
-            "fanart": "https://i.imgur.com/jtTx5ME.jpg",
+            "fanart": "https://i.imgur.com/XSpjxzM.jpg",
             "description": "Este ajuste es para dispositivos de hasta 3Gb de Ram máximo."
         },
         {
@@ -29,7 +29,7 @@
             "section": false,
             "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/3Gb-Ram.(opcion1).xml",
             "icon": "https://i.imgur.com/MYY2iHf.png",
-            "fanart": "https://i.imgur.com/jtTx5ME.jpg",
+            "fanart": "https://i.imgur.com/XSpjxzM.jpg",
             "description": "Este ajuste es para dispositivos potentes y de más de 3Gb de RAM."
         },
         {
@@ -37,7 +37,7 @@
             "section": false,
             "url": "https://raw.githubusercontent.com/gtkingbuild/gtkingbuild.github.io/master/wizard/buffer/3Gb-Ram.(opcion2).xml",
             "icon": "https://i.imgur.com/MYY2iHf.png",
-            "fanart": "https://i.imgur.com/jtTx5ME.jpg",
+            "fanart": "https://i.imgur.com/XSpjxzM.jpg",
             "description": "Este ajuste es para dispositivos potentes y de más de 3Gb de RAM."
         },
         {
